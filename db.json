@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "subir",
+      "age": 27,
+      "job": "software",
+      "home": "birbhum",
+      "email": "spal@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "anupam",
+      "age": 26,
+      "job": "business",
+      "home": "birbhum",
+      "email": "anu@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "tarit",
+      "age": 27,
+      "job": "mechanic",
+      "home": "birbhum",
+      "email": "tarit@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "chanchal",
+      "age": 24,
+      "job": "electrotion",
+      "home": "birbhum",
+      "email": "chanchal@gmail.com"
+    },
+    {
+      "name": "pranto",
+      "age": "25",
+      "job": "student",
+      "home": "kolkata",
+      "email": "pranto@",
+      "id": 5
+    },
+    {
+      "name": "gopal",
+      "age": "45",
+      "job": "school",
+      "home": "kol",
+      "email": "gopal@123",
+      "id": 6
+    }
+  ]
+}

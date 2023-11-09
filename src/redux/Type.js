@@ -1,0 +1,3 @@
+export const FEATCHDATA = 'FEATCHDATA'
+export const FEATCHSUCCESS = 'FEATCHSUCCESS'
+export const FEATCHFAIL = 'FEATCHFAIL'
